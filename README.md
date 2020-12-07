@@ -1,6 +1,6 @@
 # 1's and 2's Complement in C++
 ## Important:
-I wrote this program when I was in my first year and I posted it on a simple blog that I created at that time (PEC-World.weebly.com). Recently I decided to move all my projects to github and I have taken down this blog. Since I wrote this is in 2017 it has some mistakes here and there but it works fine. I also know this project would have been more easy if I had written it in python but I didn't know python at that time. Here is the exact copy of the post that I wrote on my blog on 15 Jan 2018 👇
+I wrote this program when I was in my first year and I posted it on a simple blog that I created at that time (PEC-World.weebly.com). Recently I decided to move all my projects to github and I have taken down this blog. Since I wrote this is in 2017 it has some mistakes here and there but it works fine. I also know this project would have been more easy if I had written it in python but I didn't know python at that time. Here is the exact copy of the post that I wrote on my blog.👇
 
 ## Description
 This is a very basic project. Nothing Fancy. Just a simple countdown timer. It can be made fancy by incorporating graphics but the basic logic will not change.  
